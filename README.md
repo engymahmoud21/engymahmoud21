@@ -38,6 +38,7 @@ H --> I[Jenkins CI/CD]
 
 I --> J[AWS Infrastructure]
 
+```
 
 ##  Tech Stack
 
@@ -77,7 +78,6 @@ RHCSA Certified
 * LinkedIn: www.linkedin.com/in/engy-mahmoud-8192301a0
 * Email: engy.abuelhassan21@outlook.com
 
-```
 
 
 <!--
