@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Engy Mahmoud</h1>
-<h3 align="center">DevOps Engineer • AI Engineer </h3>
+<h3 align="center">DevOps Engineer • MlOps Engineer </h3>
 
 <p align="center">
 Alexandria, Egypt  <br/>
