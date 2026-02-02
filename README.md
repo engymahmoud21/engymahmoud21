@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Engy Mahmoud</h1>
-<h3 align="center">DevOps Engineer • AI Engineer • Mobile Developer</h3>
+<h3 align="center">DevOps Engineer • AI Engineer </h3>
 
 <p align="center">
-Alexandria, Egypt — Working in Dubai <br/>
-RHCSA Certified | DevOps Diploma – DEPI
+Alexandria, Egypt  <br/>
+RHCSA Certified | DevOps Diploma 
 </p>
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 I design and build **AI-powered systems**, automate infrastructures, and develop **intelligent mobile applications** powered by DevOps and cloud architecture.
 
@@ -17,11 +17,11 @@ I design and build **AI-powered systems**, automate infrastructures, and develop
 - Eye Tracking & Behavior Analysis
 - CI/CD & Kubernetes Deployments
 - AWS High-Availability Architectures
-- Mobile apps connected to AI backends
+- 
 
 ---
 
-## 🧠 System Thinking (How my projects connect)
+##  System Thinking (How my projects connect)
 
 ```mermaid
 flowchart LR
@@ -39,29 +39,28 @@ H --> I[Jenkins CI/CD]
 I --> J[AWS Infrastructure]
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **DevOps**
 Docker • Kubernetes • Jenkins • Ansible • Terraform • GitLab CI
 
 **Cloud**
 AWS (EC2, VPC, RDS, S3, IAM) — Region: us-east-1
+azure
 
-**Backend**
-Python • FastAPI • PHP
+** AI **
+Python • FastAPI 
 
 **AI / CV**
 Whisper • Coqui XTTS v2 • VLMs • MediaPipe
 
-**Mobile**
-Android • iOS • Flutter
 
 **Linux**
 RHCSA Certified
 
 ---
 
-## 📌 Featured Work
+##  Featured Work
 
 | Project              | Description                                     |
 | -------------------- | ----------------------------------------------- |
@@ -70,14 +69,13 @@ RHCSA Certified
 | Eye Tracking System  | Behavior & focus detection using MediaPipe      |
 | K8s CI/CD Pipeline   | Jenkins + Docker + Kubernetes deployment        |
 | AWS 3-Tier HA        | High availability architecture on AWS           |
-| Mobile AI Client     | Mobile apps connected to AI backend             |
-
+          
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/PUT-YOUR-LINK](https://www.linkedin.com/in/PUT-YOUR-LINK)
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: www.linkedin.com/in/engy-mahmoud-8192301a0
+* Email: engy.abuelhassan21@outlook.com
 
 ```
 
