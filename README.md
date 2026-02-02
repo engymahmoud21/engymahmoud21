@@ -1,13 +1,3 @@
-## Hi there 👋
-حلو أوي 👌
-هنعمل README شكله **نضيف – بسيط – Professional** وفيه **Diagram** يوري دماغك بتفكر إزاي كمهندسة سيستم مش بس كاتبة كود.
-
-GitHub بيدعم **Mermaid diagrams** مباشرة 💎
-وده بيدي شكل تقيل جدًا من غير أي صور.
-
-انسخي ده وحطيه في `README.md` 👇
-
-````markdown
 <h1 align="center">Hi 👋 I'm Engy Mahmoud</h1>
 <h3 align="center">DevOps Engineer • AI Engineer • Mobile Developer</h3>
 
@@ -47,9 +37,7 @@ G --> H[Kubernetes]
 H --> I[Jenkins CI/CD]
 
 I --> J[AWS Infrastructure]
-````
 
----
 
 ## 🛠️ Tech Stack
 
@@ -93,18 +81,6 @@ RHCSA Certified
 
 ```
 
----
-
-### ليه ده شكله جامد؟
-
-- centered header شيك
-- جدول مشاريع منظم
-- Mermaid diagram يوري إنك بتفهمي Architecture
-- Minimal… مفيش زحمة
-- Recruiter يدخل يفهمك في 20 ثانية
-
-لو حابة نزود **diagram تاني مخصوص للـ DevOps pipeline** يبقى الشكل تقيل أوي أوي.
-```
 
 <!--
 **engymahmoud21/engymahmoud21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
